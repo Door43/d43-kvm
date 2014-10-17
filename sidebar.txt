@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kvm:home|Door43 (kvm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kvm|d43-kvm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kvm/archive/master.zip|d43-kvm.zip]]
+
+**Recent Changes**
+{{changes>ns = kvm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kvm|Ethnologue data]]
+
